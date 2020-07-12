@@ -30,12 +30,6 @@ int main(){
 	}
 
 	
-	/*for (i = 0; i < len; i++)
-	{
-		fprintf(f,"%d ", s[i]); 
-	}
-	fprintf(f,"\n");*/
-
 
 	fprintf(f,"All words have been saved in words.txt file!\nThe sentence consists of %d words.",count+1);
     
